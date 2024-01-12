@@ -8,5 +8,24 @@
         rgba(184, 84, 232, 1) 25%,
         rgb(212, 177, 229) 100%
     );
-
+}
+.button {
+    font-weight: bold;
+    font-size: 7px;
+    cursor: pointer;
+    padding: .2rem .5rem;
+    background: linear-gradient(
+        90deg,
+        rgb(176, 127, 224) 0%,
+        rgb(111, 25, 151) 100%
+    );
+    border-radius: 3em;
+    border: none;
+}
+.button:hover {
+    background: linear-gradient(
+        90deg,
+        rgba(184, 84, 232, 1) 0%,
+        rgba(132, 53, 222, 1) 100%
+    );
 }
