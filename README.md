@@ -1,2 +1,2 @@
 # Desafio-de-projeto
-Projetos criados para estudo na Dio.me
+Projeto criado para estudo na Dio.me
